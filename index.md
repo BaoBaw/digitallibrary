@@ -16,7 +16,7 @@ Berikut ini adalah koleksi yang dimiliki:
 9. [Upanishads](ebook/Upanishads.pdf) - Friedrich Max Müller (2025)
 10. [Little Women](ebook/Little-Women.pdf) - Louisa May Alcott (2024)
 11. [Life Without Conflict](ebook/Life-Without-Conflict.pdf) - Dada Bhagwan (2007)
-
+12. [Beyond The Bookshelf: Virtual Reality as a Tool for Library Design and Interactive Tours](ebook/Beyond The Bookshelf Virtual Reality as a Tool for Library Design and.pdf) - Prof. Dr. Teungku Siti Meriam (2025)
 ---
 
 *Powere by GitHub Pages*
