@@ -1,5 +1,5 @@
 # 📚🦖 Digital Library
-(webti/halaman1.html) (webti/halaman2.html) (webti/halaman3.html) (webti/halaman4.html) 
+
 Selamat Datang di Perpustakaan Digital
 
 Berikut ini adalah koleksi yang dimiliki:
@@ -18,5 +18,6 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [Life Without Conflict](ebook/Life-Without-Conflict.pdf) - Dada Bhagwan (2007)
 12. [Beyond The Bookshelf: Virtual Reality as a Tool for Library Design and Interactive Tour](ebook/Beyond The Bookshelf Virtual Reality as a Tool for Library Design and.pdf) - Prof.Dr.Teungku Siti Meriam (2025)
 
+[Halaman 1](webti/halaman1.html) [Halaman 2](webti/halaman2.html)[Halaman 3](webti/halaman3.html)[Halaman 4](webti/halaman4.html)
 
 *Powere by GitHub Pages*
