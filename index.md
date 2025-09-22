@@ -20,7 +20,7 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---
 
-[Index](https://baobaw.github.io/digitallibrary/)[Halaman 1](webti/halaman1.html) [Halaman 2](webti/halaman2.html) [Halaman 3](webti/halaman3.html) [Halaman 4](webti/halaman4.html)  [Halaman 5](webti/halaman5.html)  [Halaman 6](webti/halaman6.html)  [Halaman 7](webti/halaman7.html)
+[Index](https://baobaw.github.io/digitallibrary/) [Halaman 1](webti/halaman1.html) [Halaman 2](webti/halaman2.html) [Halaman 3](webti/halaman3.html) [Halaman 4](webti/halaman4.html)  [Halaman 5](webti/halaman5.html)  [Halaman 6](webti/halaman6.html)  [Halaman 7](webti/halaman7.html)
 
 <a href="webti/halaman1.html"> Halaman 1 </a> ini pake href href itu
 
